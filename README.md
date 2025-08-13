@@ -15,4 +15,4 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div><br>
 
-Sou um Estudante de Analise e Desenvolvimento de Sistema, venho me aprofundando cada dia mais na parte de Front End.
+Sou um Estudante de Analise e Desenvolvimento de Sistema, venho me aprofundando cada dia mais na parte de Back End.
